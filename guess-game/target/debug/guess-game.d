@@ -1,1 +1,1 @@
-/home/erygle/rust/guess-game/target/debug/guess-game: /home/erygle/rust/guess-game/src/main.rs
+/home/erygle/Rust-tutorial/guess-game/target/debug/guess-game: /home/erygle/Rust-tutorial/guess-game/src/main.rs
